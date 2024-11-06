@@ -1,8 +1,8 @@
 ## Hello There !
 I am Ardiyan Mahessa. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ardxyns/)](https://instagram.com/ardxyns)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ardxynw@gmail.com)](mailto:ardxyns@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Ardxyns-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ardxyns/)](https://instagram.com/ardxyns)
+[![Gmail Badge](https://img.shields.io/badge/-Ardxyns-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ardxynw@gmail.com)](mailto:ardxyns@gmail.com)
 
 ## ⚡ Technologies
 
@@ -37,4 +37,4 @@ I am Ardiyan Mahessa. Always open to collaborating on projects and innovative/di
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ardx-f)
